@@ -899,7 +899,7 @@ Adirondack/SM
 Adisham/M
 Adivasi/S
 adiós
-adj.
+adj
 adjacency/MS
 adjacent/Y
 adjectival/Y
@@ -929,7 +929,7 @@ Adlerian/S
 Adlestrop/M
 Adlingfleet/M
 Adlington/M
-Adm.
+Adm
 adman/M
 Admarsh/M
 admass
@@ -1036,7 +1036,7 @@ adulthood/SM
 adumbrate/VSGnvDN
 adumbration/M
 Adur/M
-adv.
+adv
 Advair/M
 advance/LGSDR
 advantage/MEDGS
@@ -2704,7 +2704,7 @@ Amqui/M
 Amroth/M
 Amsterdam/M
 Amstrad/M
-amt.
+amt
 Amtrak/M
 amu
 amuck
@@ -5803,6 +5803,7 @@ B-film/S
 B-movie/S
 b.c.c.
 B.Sc.
+BSc
 b/pb
 ba
 Ba
@@ -10821,7 +10822,7 @@ Bristo/M
 Bristol/M
 bristols
 Briston/M
-Brit.
+Brit
 Brit/S
 Britain/M
 Britannia/M
@@ -11047,7 +11048,7 @@ Broomknoll/M
 Broomsthorpe/M
 broomstick/MS
 Brora/M
-Bros.
+Bros
 brose
 Broseley/M
 Brossard/M
@@ -12746,7 +12747,7 @@ capstone/SM
 capsular
 capsule/8SQMGD
 capsulotomy/S
-Capt.
+Capt
 captain/GDSM
 captainate/S
 captaincy/MS
@@ -15939,10 +15940,12 @@ Cláudio/M
 cm
 Cm
 Cmd.
+Cmd
 Cmdr
 Cmdre
 CMG
 Cmnd.
+Cmnd
 CMOS
 CMS
 CNAA
@@ -18126,6 +18129,8 @@ coronet/dSM
 coronoid/S
 coroutine/SM
 corp.
+corp
+corps
 Corpach/M
 corpora/MnVo
 corporal/MS
@@ -20181,6 +20186,7 @@ d'être
 D-day
 D-notice
 D.C.
+DC
 D.F.A.
 d/to
 da
@@ -21548,7 +21554,7 @@ depressurisation
 depressurise/SGD
 depressurize/SGDN
 deprive/SGnND
-Dept.
+Dept
 Deptford/M
 depth/SM
 depthless/Y
@@ -24426,6 +24432,7 @@ e-learning
 e-mail/MSGD
 e.coli
 e.g.
+eg
 e.m.f.
 ea
 each
@@ -24736,7 +24743,7 @@ ecogeographical
 Ecole/M
 ecolodge/S
 ecology/wS3M1
-Econ.
+Econ
 econometric/S
 econometricians
 econometrics/M
@@ -24788,7 +24795,7 @@ ecumenism/SM
 ecumenist/MS
 eczema/SM
 eczematous
-ed.
+ed
 Ed/M
 Edale/M
 Edam/M
@@ -26043,7 +26050,7 @@ enframe/SGD
 enfranchise/EDLSG
 enfranchiser/SM
 enfranchize/LDGRS
-eng.
+eng
 engage/AGESD
 engagement/SM
 engaging/Y
@@ -33336,7 +33343,7 @@ Gourock/M
 Goussé/M
 gout/ZSM
 gouty/T
-gov.
+gov
 Govan/M
 Govanhill/M
 govern/GaSD
@@ -33357,7 +33364,7 @@ governor/MS
 governorate/SM
 governorship/MS
 Govind/M
-Govt.
+Govt
 Gowdall/M
 Gower/M
 Gowerton/M
@@ -37407,7 +37414,7 @@ homuncular
 homuncules
 homunculi
 homunculus
-Hon.
+Hon
 Honda/M
 Honddu/M
 Hondo/M
@@ -37892,9 +37899,9 @@ Hoyt/M
 HP/M
 HPV
 HQ
-hr.
+hr
 HRH
-hrs.
+hrs
 HRT/M
 Hsu/M
 html
@@ -39354,7 +39361,7 @@ inbred
 inbreed/SGJ
 inbreeding/M
 inbuilt
-Inc.
+Inc
 Inca/S
 incalculable/PY
 incall/SM
@@ -39504,7 +39511,7 @@ incursion/M
 incurvate/D
 incurvation/S
 incus
-Ind.
+Ind
 indebted/P
 indebtedness/S
 indeclinable
@@ -41087,8 +41094,8 @@ isinglass/SM
 ISIS/M
 Isis/M
 isiZulu
-isl.
-Isl.
+isl
+Isl
 Islam/M
 Islamabad/M
 Islamdom
@@ -41703,7 +41710,7 @@ jiu-jitsu
 jiujitsu's
 jive/MDGS
 jnana
-jnr.
+jnr
 Jo'burg/M
 Jo/M
 Joachim/M
@@ -47352,6 +47359,7 @@ Lüth/M
 m
 M-DISC/M
 M.Sc.
+MSc
 MA
 mA
 ma'am
@@ -47829,7 +47837,7 @@ Maitai/M
 Maitlands/M
 Maitra/M
 maize
-Maj.
+Maj
 Majella/M
 majesty/WSM1
 majeure
@@ -51077,7 +51085,7 @@ mimic/RDGSy
 mimicry/SM
 Mimms/M
 mimosa/MS
-min.
+min
 Min/M
 min/S
 Mina/M
@@ -55664,7 +55672,7 @@ Northport/M
 Northrepps/M
 Northridge/M
 Northrop/M
-Northumb.
+Northumb
 Northumberland/M
 Northumbria/M
 Northumbrian/S
@@ -56248,7 +56256,7 @@ oboe/SM
 oboist/SM
 Oborne/M
 obreption
-obs.
+obs
 obscene/TY
 obsceneness
 obscenity/SM
@@ -60773,7 +60781,7 @@ PG
 pg.
 PGA/M
 PGP/M
-Ph.D.
+Ph.D
 pH/MS
 Phabricator/M
 phaeton/MS
@@ -64263,7 +64271,7 @@ productiveness/SM
 productivity/SM
 proenkephalin
 proenzyme/S
-Prof.
+Prof
 prof/MS
 profane/DPSGYNn
 profaneness/S
@@ -68247,7 +68255,7 @@ revaluate/SGD
 revanchard
 revanchism
 revanchist/S
-Revd.
+Revd
 reveal/RSD7Gk
 revealing/U
 reveille/SM
@@ -69554,7 +69562,7 @@ RPI
 rpm
 RPO
 RRP
-Rs.
+Rs
 RSA/M
 RSC
 RSI
@@ -71530,7 +71538,7 @@ Sebergham/M
 seborrhoea/W
 Sebring/M
 sebum
-sec.
+sec
 sec/S
 SECAM/M
 secant/MS
@@ -72043,7 +72051,7 @@ sempre
 Sempringham/M
 sempstress/MS
 Semtex/M
-Sen.
+Sen
 senary
 senate/SM
 senator/MS
@@ -72188,8 +72196,8 @@ Sepulchre/M
 sepulchre/SoM
 sepulture
 Sepura/M
-seq.
-seqq.
+seq
+seqq
 sequacious/Y
 sequacity
 Sequatchie/M
@@ -72477,7 +72485,7 @@ sf
 sforzandi
 sforzando/S
 Sg
-Sgt.
+Sgt
 sh
 SHA
 Shaanxi/M
@@ -74516,7 +74524,7 @@ snowsuit/SM
 snowy/T
 SNP/M
 SNR
-Snr.
+Snr
 snub-nosed
 snub/DGSR
 snuff/RYGSD
@@ -74552,7 +74560,7 @@ soberest
 Soberton/M
 sobriety/ISM
 sobriquet/MS
-Soc.
+Soc
 soccer/M
 Socha/M
 sociability's
@@ -75881,7 +75889,7 @@ Staffin/M
 Stafford/M
 Staffordshire/M
 staffroom/S
-Staffs.
+Staffs
 stag/dSM
 stage-manage/RD
 stage-management
@@ -77296,7 +77304,7 @@ sub-head/J
 sub-idea
 sub-item/S
 sub-lieutenant/SM
-Sub-Lt.
+Sub-Lt
 sub-machine-gun
 sub-prime
 sub-Saharan
@@ -78328,7 +78336,7 @@ suprematism
 suprematist/S
 supreme/YP
 supremo/MS
-Supt.
+Supt
 sura/S
 Surabaya/M
 surah/S
@@ -79758,7 +79766,7 @@ TEirtza/M
 Teixeira/M
 tektite/MS
 Tektronix/M
-Tel.
+Tel
 Telangana/M
 telco/S
 Tele-Computer
@@ -85315,7 +85323,7 @@ vapourless
 vapourlike
 vapourware
 vapoury
-var.
+var
 Varaha/M
 Varahi/M
 Varanasi/M
@@ -86186,7 +86194,7 @@ voile/SM
 voilà
 VoIP
 vol-au-vent
-vol.
+vol
 Volapük/M
 volatile/qQ8-S
 volatility/SM
